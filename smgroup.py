@@ -44,7 +44,7 @@ class irrep(object):
     def C2(self, N):
         """Quadratic Casimir.
         
-        For U(1) GUT normalization is  NOT included.
+        By default, for U(1) GUT normalization sqrt(3/5) is included.
         """
         global GUTU1
         if N == 1:
