@@ -7,7 +7,7 @@ This is the code for the numerics and figures for paper
 
 Oleg Antipin, Petar Čuljak, Krešimir Kumerički and Ivica Picek, 
 _Radiative neutrino models in light of diphoton signals_,
-arXiv:1606.?????
+[arXiv:1606.05163](http://arxiv.org/abs/1606.05163).
 
 
 Jupyter/Python notebook ``H750.ipynb`` produces all figures in the paper, apart from the
